@@ -1,11 +1,3 @@
-//
-//  WhoToFollowTests.swift
-//  WhoToFollowTests
-//
-//  Created by Trung Nguyen on 4/10/18.
-//  Copyright © 2018 com.rxswift. All rights reserved.
-//
-
 import XCTest
 @testable import WhoToFollow
 
